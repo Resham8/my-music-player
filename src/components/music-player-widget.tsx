@@ -186,7 +186,7 @@ export function MusicPlayerWidget({
         aria-label="Music player widget"
         onClick={onClick}
         className={cn(
-          "relative w-[260px] h-[260px] rounded-[28px] bg-secondary text-secondary-foreground/90",
+          "relative w-[260px] h-[260px] rounded-[28px] bg-black text-gray-200",
           "shadow-[0_10px_30px_rgba(0,0,0,0.35)]",
           "overflow-hidden" 
         )}
